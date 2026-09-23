@@ -1,10 +1,10 @@
 {
     "name": "freescout/masjidmediabrand",
-    "description": "",
+    "description": "Dark Masjid Media theme for the agent dashboard, login page and customer emails.",
     "authors": [
         {
-            "name": "FreeScout",
-            "email": "support@freescout.net"
+            "name": "Masjid Media",
+            "homepage": "https://masjidmedia.id"
         }
     ],
     "extra": {
@@ -21,5 +21,6 @@
         "psr-4": {
             "Modules\\MasjidMediaBrand\\": ""
         }
-    }
+    },
+    "license": "AGPL-3.0"
 }
