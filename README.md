@@ -62,3 +62,9 @@ After regenerating, walk through:
 If something looks broken, disable the module first
 (`php artisan module:disable MasjidMediaBrand`) to confirm it's this theme
 and not something else, then fix the relevant selector in `theme.css`.
+
+## License
+
+AGPL-3.0, the same licence as FreeScout. See [LICENSE](LICENSE).
+
+The Masjid Media name and logo (`Public/img/`) are not covered by that licence and may not be used to brand other products or services.
