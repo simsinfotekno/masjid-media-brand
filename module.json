@@ -1,0 +1,22 @@
+{
+    "name": "MasjidMediaBrand",
+    "alias": "masjidmediabrand",
+    "description": "Dark Masjid Media theme for the agent dashboard, login page and customer emails.",
+    "version": "1.0.0",
+    "detailsUrl": "",
+    "author": "Masjid Media",
+    "authorUrl": "https://masjidmedia.id",
+    "requiredAppVersion": "1.8.241",
+    "license": "AGPL-3.0",
+    "keywords": [],
+    "active": 0,
+    "order": 0,
+    "providers": [
+        "Modules\\MasjidMediaBrand\\Providers\\MasjidMediaBrandServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
